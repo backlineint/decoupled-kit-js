@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Pantheon Systems Decoupled Kits
 
 [![CircleCI](https://circleci.com/gh/pantheon-systems/decoupled-kit-js/tree/canary.svg?style=svg)](https://circleci.com/gh/pantheon-systems/decoupled-kit-js/tree/canary)
